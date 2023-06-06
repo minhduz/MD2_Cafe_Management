@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58cc655c-713c-4b4c-8f65-43d8b56855c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MD2_ProjectCuoiMD_Cafe_Managerment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/design/ICafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/design/ICatalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/design/IProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/design/ITable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/design/IUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/entity/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/entity/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/entity/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/imp/CatalogImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/imp/ProductImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/imp/TableImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/business/imp/UserImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/config/ShopConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/config/ShopMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/config/ShopValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/data/Catalog.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/data/FileImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/data/Product.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/data/Table.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/data/User.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/presentation/CatalogMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/presentation/ProductMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/presentation/ShopRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/presentation/TableMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ra/presentation/UserMenu.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2GQclslDnNKxvBFDuwe9pJN0X20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;304&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/minhd/OneDrive/Desktop/Source/MD2_ProjectCuoiMD_Cafe_Managerment&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="ShopRun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ra.presentation.ShopRun" />
+      <module name="MD2_ProjectCuoiMD_Cafe_Managerment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ra.presentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ShopRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58cc655c-713c-4b4c-8f65-43d8b56855c9" name="Changes" comment="" />
+      <created>1666324402119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666324402119</updated>
+      <workItem from="1666324403425" duration="13843000" />
+      <workItem from="1666346184318" duration="16000" />
+      <workItem from="1666363957011" duration="2436000" />
+      <workItem from="1666366548065" duration="1020000" />
+      <workItem from="1666367634380" duration="1324000" />
+      <workItem from="1666433922006" duration="2576000" />
+      <workItem from="1666445027599" duration="7942000" />
+      <workItem from="1666523959346" duration="1605000" />
+      <workItem from="1666537364442" duration="652000" />
+      <workItem from="1666538121785" duration="67000" />
+      <workItem from="1666538218614" duration="8315000" />
+      <workItem from="1666573204268" duration="5862000" />
+      <workItem from="1666579331689" duration="21290000" />
+      <workItem from="1666624007334" duration="8431000" />
+      <workItem from="1666659881321" duration="17497000" />
+      <workItem from="1666710449392" duration="1558000" />
+      <workItem from="1666745664341" duration="5773000" />
+      <workItem from="1666760401283" duration="3000" />
+      <workItem from="1666767729417" duration="3891000" />
+      <workItem from="1666846754957" duration="111000" />
+      <workItem from="1666853828391" duration="2037000" />
+      <workItem from="1667167914087" duration="2283000" />
+      <workItem from="1667959961035" duration="321000" />
+      <workItem from="1676362887518" duration="115000" />
+      <workItem from="1676365771145" duration="39000" />
+      <workItem from="1677557569681" duration="825000" />
+      <workItem from="1677570572674" duration="2386000" />
+      <workItem from="1677633004927" duration="3170000" />
+      <workItem from="1677684016068" duration="27000" />
+      <workItem from="1681872762174" duration="2076000" />
+      <workItem from="1683616892614" duration="622000" />
+      <workItem from="1683702783929" duration="53000" />
+      <workItem from="1684221724357" duration="2516000" />
+      <workItem from="1685517907322" duration="771000" />
+      <workItem from="1685522814341" duration="3384000" />
+      <workItem from="1685611368576" duration="266000" />
+      <workItem from="1685686679267" duration="3266000" />
+      <workItem from="1685957040515" duration="2728000" />
+      <workItem from="1686032284035" duration="3377000" />
+      <workItem from="1686037329453" duration="2829000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
